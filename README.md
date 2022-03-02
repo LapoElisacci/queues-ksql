@@ -1,15 +1,15 @@
-# Queues::Ksqldb
+# <img src="https://user-images.githubusercontent.com/50866745/156314925-b823bfe2-a9d4-4b83-8376-29a6a659b57f.png" width="48"> Rails-Queues KsqlDB
+![](https://img.shields.io/static/v1?label=Language&message=Ruby&color=red)
+![](https://img.shields.io/static/v1?label=Latest&message=unreleased&color=blue)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/queues/ksqldb`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+A Rails implementation of [ksqlDB](https://ksqldb.io/)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'queues-ksqldb'
+gem 'queues-ksql'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install queues-ksqldb
+    $ gem install queues-ksql
 
 ## Usage
 
